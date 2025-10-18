@@ -28,7 +28,8 @@ A **Streamlit web app** to optimize electric vehicle (EV) charging networks, pla
 
 ## Demo
 
-![Demo Screenshot](./screenshot.png) 
+<img width="1866" height="957" alt="screenshot" src="https://github.com/user-attachments/assets/f6bb0ab3-ef5e-406b-8889-945d5ce6b0d8" />
+
 
 ---
 
