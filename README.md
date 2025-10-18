@@ -32,11 +32,3 @@ A **Streamlit web app** to optimize electric vehicle (EV) charging networks, pla
 
 
 ---
-
-## Installation
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/ev-charging-optimizer.git
-cd ev-charging-optimizer
